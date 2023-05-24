@@ -4,13 +4,14 @@ body{
 }
 h1{
     position: absolute;
-    top:120px;
+    top:20%;
     left: 42%;
-    font-size: 50px;
+    font-size:312%;
     font-family: 'Tilt Neon', cursive;
 }
 a{
     color: black;
+    text-decoration: none;
     margin: 10px 20px ;
 }
 a:hover{
